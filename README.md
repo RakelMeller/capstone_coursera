@@ -1,1 +1,1 @@
-# cpastone_coursera
+# Applied Data Science Capstone
